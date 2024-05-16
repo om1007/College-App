@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091215695795",
+    "project_id": "final-it-live",
+    "storage_bucket": "final-it-live.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091215695795:android:e1e669739c4a36d44a75c6",
+        "android_client_info": {
+          "package_name": "com.rushikeshgadewar.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu3h863UzorIQuyN377fbwEKeF9cLvjHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
